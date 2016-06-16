@@ -19,6 +19,12 @@ vagrant ssh
 
 The default user is vagrant, and its password is vagrant.
 
+You can access this box with 2 addresses:  
+```
+http://192.168.1.2 # which points to /home/vagrant/public_html
+http://192.168.1.2/moodle # which points to a working Moodle installation
+```
+
 **ATENTION**  
 If you run Vagrant on a Unix-like operating system, it's possible that it will ask a password everytime you do vagrant up or vagrant halt.  
 This password will be the one from the user that has the right to run sudo commands.  
