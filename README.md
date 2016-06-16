@@ -50,6 +50,7 @@ Debian:
 ```
 username=vagrant
 password=vagrant
+```
 
 MySQL:  
 ```
