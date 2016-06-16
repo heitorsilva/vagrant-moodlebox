@@ -26,7 +26,7 @@ http://192.168.1.2/moodle # which points to a working Moodle installation
 ```
 
 **ATTENTION**  
-If you run Vagrant on a Unix-like operating system, it's possible that it will ask a password every time you do vagrant up or vagrant halt.  
+If you run Vagrant on a Unix-like operating system, it's possible that it will ask a password every time you do `vagrant up` or `vagrant halt`.  
 This password will be the one from the user that has the right to run sudo commands.  
 In case you want Vagrant to never ask for a password again when using the mentioned commands, you must add one line in the sudoers file.  
 ```
