@@ -7,7 +7,7 @@ This repository is a [Vagrant](https://www.vagrantup.com/) box to build up a Deb
 
 This box was made in a way that supports Vagrant 1.8.1 or higher. It also requires [VirtualBox 5](https://www.virtualbox.org/).
 
-After installing this box on your computer, from inside the MoodleBox directory, type:
+After cloning this repository on your computer, from inside the vagrant-moodlebox directory, type:
 ```
 vagrant up
 ```
